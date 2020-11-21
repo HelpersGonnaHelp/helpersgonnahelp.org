@@ -1,0 +1,22 @@
+# Setup
+title:               HelpersGonnaHelp.org
+tagline:             'Where do-gooders meet good-helpers'
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Ted Kozak
+  url:               TBD
+  email:             ted@helpersgonnahelp.org
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             0.0.1
+google_analytics_id: 
